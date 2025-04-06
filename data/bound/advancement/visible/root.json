@@ -1,0 +1,18 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:diamond_boots"
+      },
+      "title": "Bound!",
+      "description": "A bouncy enchant!",
+      "background": "minecraft:textures/block/tuff.png",
+      "show_toast": false,
+      "announce_to_chat": false
+    },
+    "criteria": {
+      "tick": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  
