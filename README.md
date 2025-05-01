@@ -8,7 +8,7 @@ The Bound enchantment has levels, with Bound I giving the player one extra jump 
 Bound enchantment books can be obtained from [Ominous Vaults](https://minecraft.wiki/w/Ominous_Vault) in Trial Chambers, and will randomly drop with Bound I to Bound III
 
 # Performance
-This datapack generally **does not work well on servers**. If you have low ping, it will feel just fine! But as ping gets higher, the jumps become more and more unpredictable
+From version 2.1 onwards, performance is **vastly** improved on servers! Do be aware, 100ms+ ping will cause a somewhat noticeable difference, making the jumps feel less smooth.
 
 # Thanks
 Thanks to [player motion](https://modrinth.com/datapack/player_motion) for the motion code!
