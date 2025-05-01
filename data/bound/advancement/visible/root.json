@@ -5,7 +5,7 @@
       },
       "title": "Bound!",
       "description": "A bouncy enchant!",
-      "background": "minecraft:textures/block/tuff.png",
+      "background": "minecraft:block/tuff_bricks",
       "show_toast": false,
       "announce_to_chat": false
     },
