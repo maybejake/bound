@@ -1,0 +1,1 @@
+$execute store result score $d bound.motion.math run data get storage bound:arcsine arr[$(quotient)]

@@ -2,6 +2,10 @@
   "condition": "minecraft:entity_properties",
   "entity": "this",
   "predicate": {
-    "stepping_on": {}
+    "movement": {
+      "fall_distance": {
+        "min": 0.000001
+      }
+    }
   }
 }
