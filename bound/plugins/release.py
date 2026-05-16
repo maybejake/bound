@@ -20,7 +20,7 @@ def beet_default(ctx: Context):
 
     # Save datapack
     ctx.data.save(
-        path=ctx.directory / ".build" / f"{ctx.project_name}-{version}-Data-Pack",
+        path=ctx.directory / ".build" / f"{ctx.project_name}-{version}",
         overwrite=True,
         zipped=True
     )
