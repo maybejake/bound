@@ -1,0 +1,10 @@
+{
+  "id": "bound",
+  "pack":{
+    "description": [
+      {"text":"\u2601 Bound \u2601", "color":"#47cbff"},
+      {"text":"\n"},
+      {"text":"A triple jump enchantment","color":"#7e7e7e"}
+    ]
+  }
+}

@@ -1,1 +1,0 @@
-$execute facing ~$(motion_x) ~$(motion_y) ~$(motion_z) run function bound:motion/internal/summon/crystal with storage bound:math

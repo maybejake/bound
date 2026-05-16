@@ -1,0 +1,13 @@
+data_pack:
+  load: .
+
+resource_pack:
+  load:
+    - .
+
+pipeline:
+  - bound.plugins.release
+  - mecha
+
+version: 3.0.0
+name: Bound
