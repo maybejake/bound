@@ -1,13 +1,13 @@
 data_pack:
   load: .
-
-resource_pack:
-  load:
-    - .
+  min_format: [107,1]
+  max_format: [107,1]
 
 pipeline:
-  - bound.plugins.release
   - mecha
 
-version: 3.0.2
-name: Bound
+"description": [
+  {"text":"\u2601 Bound \u2601", "color":"#47cbff"},
+  {"text":"\n"},
+  {"text":"A triple jump enchantment","color":"#7e7e7e"}
+]
